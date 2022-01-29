@@ -1,5 +1,5 @@
 <h1 align='center'>Hi there 👋, I’m Fabrico</h1>
-<h3 align='center'>  I’m Software developer based in Argentina</h3>
+<h3 align='center'>  I’m Software developer student based in Argentina</h3>
 
 
 - 👨‍🎓 I’m currently Computer engineering student.
