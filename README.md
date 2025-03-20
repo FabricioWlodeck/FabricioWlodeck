@@ -3,5 +3,4 @@
 
 
 - 👨‍🎓 I’m currently Computer engineering student.
-- 👨‍💻 I’m learning Js, Python and Node js: <a href=""><img src="https://img.icons8.com/color/20/000000/python--v1.png"/></a> <a href=""><img src="https://img.icons8.com/color/20/000000/javascript--v1.png"/></a> <a href=""><img src="https://img.icons8.com/fluency/20/000000/node-js.png"/></a> <a href=""><img src="[https://img.icons8.com/fluency/20/000000/node-js.png](https://img.icons8.com/?size=100&id=22813&format=png&color=000000)"/></a>
-
+- 👨‍💻 I’m learning Js, Python and Node js: <a href=""><img src="https://img.icons8.com/color/20/000000/python--v1.png"/></a> <a href=""><img src="https://img.icons8.com/color/20/000000/javascript--v1.png"/></a> <a href=""><img src="https://img.icons8.com/fluency/20/000000/node-js.png"/></a> <img src="https://img.icons8.com/fluency/16/docker.png"/>
